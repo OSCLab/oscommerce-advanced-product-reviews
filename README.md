@@ -23,7 +23,7 @@ Files that will be replaced on the server:
 - admin/includes/languages/english/reviews.php
 - admin/includes/modules/dashboard/d_reviews.php
 - admin/reviews.php
-- includes/languages/english/product_reviews.php
+- includes/languages/english/reviews.php
 - includes/modules/boxes/bm_reviews.php
 - reviews.php
 
