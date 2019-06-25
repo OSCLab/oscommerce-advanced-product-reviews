@@ -9,7 +9,7 @@ Advanced Reviews is a great way to build trust in your store and automated follo
 Compatible With:
 
 * Community Edition version: All 
-* Official version: 2.3++ (catalog design is not supported)
+* Official version: 2.3.4+ (catalog design is not supported)
 * Minimum PHP Version: 7.0
 
 ## Installation
