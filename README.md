@@ -23,12 +23,9 @@ Files that will be replaced on the server:
 - admin/includes/languages/english/reviews.php
 - admin/includes/modules/dashboard/d_reviews.php
 - admin/reviews.php
-- includes/languages/english/modules/content/product_info/cm_pi_reviews.php
 - includes/languages/english/product_reviews.php
 - includes/modules/boxes/bm_reviews.php
-- includes/modules/boxes/templates/tpl_bm_reviews.php 
-- includes/modules/content/product_info/cm_pi_reviews.php
-- product_reviews.php
+- reviews.php
 
 3. Manually make changes.
 
@@ -48,6 +45,6 @@ At the end of the file add
 
 - in menu Modules -> Content -> button Install Module -> select Reviews List (group account) -> button Install Module
 
-- in menu Modules -> Content -> button Install Module -> select Reviews To Product (group product_info) -> button Install Module
+- in menu Modules -> Content -> button Install Module -> select Reviews To Product (group product_info_bottom) -> button Install Module
 
 - in menu Modules -> Content -> button Install Module -> select Review Star Icons (group product_info) -> button Install Module
