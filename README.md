@@ -41,10 +41,10 @@ At the end of the file add
 
 5. Install module:
 
-- in menu Modules -> Boxes -> button Install Module -> select Reviews -> button Install Module
+- in menu Modules -> Boxes -> button "Install Module" -> select Reviews -> button "Install Module"
 
-- in menu Modules -> Content -> button Install Module -> select Reviews List (group account) -> button Install Module
+- in menu Modules -> Content -> button "Install Module" -> select Reviews List (group account) -> button "Install Module"
 
-- in menu Modules -> Content -> button Install Module -> select Reviews To Product (group product_info_bottom) -> button Install Module
+- in menu Modules -> Content -> button "Install Module" -> select Reviews To Product (group product_info_bottom) -> button "Install Module"
 
-- in menu Modules -> Content -> button Install Module -> select Review Star Icons (group product_info) -> button Install Module
+- in menu Modules -> Content -> button "Install Module" -> select Review Star Icons (group product_info) -> button "Install Module"
