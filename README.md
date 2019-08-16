@@ -48,7 +48,7 @@ After
 ```
 Add
 
-```php
+```html
     <div class="row is-product">
       <?php echo $page_content; ?>
     </div>
