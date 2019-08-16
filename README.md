@@ -29,6 +29,30 @@ Files that will be replaced on the server:
 
 3. Manually make changes.
 
+In product_info.php
+
+Before
+
+```php
+  require('includes/template_top.php');
+```
+Add
+
+```php
+  $page_content = $oscTemplate->getContent('product_info_bottom');
+```
+After
+
+```html
+  </form>
+```
+Add
+
+```php
+    <div class="row is-product">
+      <?php echo $page_content; ?>
+    </div>
+```
 In admin/includes/application_top.php and includes/application_top.php
 
 At the end of the file add
