@@ -1,4 +1,4 @@
-## Advanced Product Reviews
+## Advanced Product Reviews - osCommerce add-on
 Advanced Reviews is a great way to build trust in your store and automated follow up e-mails will remind your customers to share their survey with others. Boost your reputation and sales giving them a convenient tool to see, what other shoppers think about the products.
 
 * Comprehensive info right on the product details page
